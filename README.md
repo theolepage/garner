@@ -17,5 +17,6 @@ curl http://garn.er/the_id_of_my_file > file_received.png
 ## To-Do
 
 - [ ] Add restrictions on files size and type
+- [ ] Add a config file (files location, host, port)
 - [ ] Put in a Docker container
-- [ ] Create a client to use from CLI
+- [ ] Create a CLI or web client
